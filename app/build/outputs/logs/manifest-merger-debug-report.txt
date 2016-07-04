@@ -1,0 +1,55 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\workspace\AndroidStudioProjects\CameraMask\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from D:\workspace\AndroidStudioProjects\CameraMask\app\src\main\AndroidManifest.xml:3:5-29
+		INJECTED from D:\workspace\AndroidStudioProjects\CameraMask\app\src\main\AndroidManifest.xml
+		INJECTED from D:\workspace\AndroidStudioProjects\CameraMask\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\workspace\AndroidStudioProjects\CameraMask\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\workspace\AndroidStudioProjects\CameraMask\app\src\main\AndroidManifest.xml
+		INJECTED from D:\workspace\AndroidStudioProjects\CameraMask\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\workspace\AndroidStudioProjects\CameraMask\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\workspace\AndroidStudioProjects\CameraMask\app\src\main\AndroidManifest.xml
+		INJECTED from D:\workspace\AndroidStudioProjects\CameraMask\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\workspace\AndroidStudioProjects\CameraMask\app\src\main\AndroidManifest.xml:2:11-69
+uses-feature#android.hardware.camera
+ADDED from D:\workspace\AndroidStudioProjects\CameraMask\app\src\main\AndroidManifest.xml:7:5-73
+	android:name
+		ADDED from D:\workspace\AndroidStudioProjects\CameraMask\app\src\main\AndroidManifest.xml:7:19-57
+uses-permission#android.permission.CAMERA
+ADDED from D:\workspace\AndroidStudioProjects\CameraMask\app\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from D:\workspace\AndroidStudioProjects\CameraMask\app\src\main\AndroidManifest.xml:8:22-62
+application
+ADDED from D:\workspace\AndroidStudioProjects\CameraMask\app\src\main\AndroidManifest.xml:10:5-19:19
+	android:label
+		ADDED from D:\workspace\AndroidStudioProjects\CameraMask\app\src\main\AndroidManifest.xml:10:53-85
+	android:icon
+		ADDED from D:\workspace\AndroidStudioProjects\CameraMask\app\src\main\AndroidManifest.xml:10:18-52
+activity#com.cameramask.MainActivity
+ADDED from D:\workspace\AndroidStudioProjects\CameraMask\app\src\main\AndroidManifest.xml:11:9-17:20
+	android:label
+		ADDED from D:\workspace\AndroidStudioProjects\CameraMask\app\src\main\AndroidManifest.xml:12:13-45
+	android:name
+		ADDED from D:\workspace\AndroidStudioProjects\CameraMask\app\src\main\AndroidManifest.xml:11:19-61
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\workspace\AndroidStudioProjects\CameraMask\app\src\main\AndroidManifest.xml:13:13-16:29
+action#android.intent.action.MAIN
+ADDED from D:\workspace\AndroidStudioProjects\CameraMask\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from D:\workspace\AndroidStudioProjects\CameraMask\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\workspace\AndroidStudioProjects\CameraMask\app\src\main\AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from D:\workspace\AndroidStudioProjects\CameraMask\app\src\main\AndroidManifest.xml:15:27-74
+uses-sdk
+INJECTED from D:\workspace\AndroidStudioProjects\CameraMask\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+	android:targetSdkVersion
+		INJECTED from D:\workspace\AndroidStudioProjects\CameraMask\app\src\main\AndroidManifest.xml
+		INJECTED from D:\workspace\AndroidStudioProjects\CameraMask\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\workspace\AndroidStudioProjects\CameraMask\app\src\main\AndroidManifest.xml
+		INJECTED from D:\workspace\AndroidStudioProjects\CameraMask\app\src\main\AndroidManifest.xml

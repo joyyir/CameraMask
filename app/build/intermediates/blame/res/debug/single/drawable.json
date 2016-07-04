@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\CameraMask\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\card_hole_black.png",
+        "source": "D:\\workspace\\AndroidStudioProjects\\CameraMask\\app\\src\\main\\res\\drawable\\card_hole_black.png"
+    },
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\camera_sungmin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\card_hole_black.png",
+        "source": "D:\\workspace\\AndroidStudioProjects\\camera_sungmin\\app\\src\\main\\res\\drawable\\card_hole_black.png"
+    },
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\camera_sungmin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\card_hole_trans.png",
+        "source": "D:\\workspace\\AndroidStudioProjects\\camera_sungmin\\app\\src\\main\\res\\drawable\\card_hole_trans.png"
+    },
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\CameraMask\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\card_hole_trans.png",
+        "source": "D:\\workspace\\AndroidStudioProjects\\CameraMask\\app\\src\\main\\res\\drawable\\card_hole_trans.png"
+    }
+]

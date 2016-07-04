@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\camera_sungmin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\top.xml",
+        "source": "D:\\workspace\\AndroidStudioProjects\\camera_sungmin\\app\\src\\main\\res\\layout\\top.xml"
+    },
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\camera_sungmin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bottom.xml",
+        "source": "D:\\workspace\\AndroidStudioProjects\\camera_sungmin\\app\\src\\main\\res\\layout\\bottom.xml"
+    },
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\CameraMask\\app\\build\\intermediates\\res\\merged\\debug\\layout\\top.xml",
+        "source": "D:\\workspace\\AndroidStudioProjects\\CameraMask\\app\\src\\main\\res\\layout\\top.xml"
+    },
+    {
+        "merged": "D:\\workspace\\AndroidStudioProjects\\CameraMask\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bottom.xml",
+        "source": "D:\\workspace\\AndroidStudioProjects\\CameraMask\\app\\src\\main\\res\\layout\\bottom.xml"
+    },
+    {
+        "merged": "C:\\camera_ss2 (2)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\camera_ss2 (2)\\app\\src\\main\\res\\layout\\main.xml"
+    }
+]
